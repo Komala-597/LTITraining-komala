@@ -1,0 +1,1 @@
+Linux is an open source opearating system.An operating system is a software that directly manages a system hardware resource like CPU memory and storage.
